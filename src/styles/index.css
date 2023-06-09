@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+* {
+  font-family: 'Inter', 'Arial', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.highlight {
+  background: none;
+  border: 2px solid #002104;
+  border-radius: 10px;
+  color: #002104;
+  font-size: 14px;
+  padding: 5px 10px;
+  margin: 24px 0px;
+}
+
+.dashvalue {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+  width: 200px;
+  padding: 20px 10px;
+  text-align: center;
+  color: #b3b3b3;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 16px 0px;
+}
+
+input {
+  background-color: #fff;
+  border: 3px solid #002104;
+  border-radius: 5px;
+  font-size: 18px;
+  color: #000;
+}
+
+textarea, select {
+  background-color: #fff;
+  border: 3px solid #002104;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #000;
+}
