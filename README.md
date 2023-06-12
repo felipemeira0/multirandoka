@@ -12,7 +12,7 @@
 - npm run dev
 
 Após, rode o manager na raiz do projeto:  
-- python3 manager.py runserver
+- python3 manage.py runserver
 
 Inicie a plataforma através da porta disponibilizada pelo servidor: 
  - http://127.0.0.1:8000/
