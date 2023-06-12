@@ -8,7 +8,11 @@
 ### Uso: 
 Após clonar o repositório, abra a pasta do projeto.
 Estando dentro da pasta "frontend" rode: 
-- <code> npm install <code/>
-- <code> npm build <code/>
-Após, entre na pasta "backend" e rode: 
-- <code>python3 manager.py runserver<code/>
+
+- npm install
+- npm run dev
+
+Após, rode o manager na raiz do projeto:  
+- <code> python3 manager.py runserver <code/>
+
+
