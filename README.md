@@ -5,8 +5,8 @@
 - Node, Npm e Vite
 
 ### Uso: 
-Após clonar o repositório, abra a pasta do projeto.
-Estando dentro da pasta "frontend" rode: 
+<p>Após clonar o repositório, abra a pasta do projeto.</p>
+<p>Estando dentro da pasta "frontend" rode:</p> 
 
 - npm install
 - npm run dev
