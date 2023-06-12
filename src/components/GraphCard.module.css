@@ -34,3 +34,13 @@
   border-radius: 5px;
   font-weight: 700;
 }
+
+.statistics {
+  background-color: #002104;
+  border-radius: 5px;
+  color: #fff;
+  width: 90%;
+  padding: 10px;
+  font-size: 18px;
+  margin: 15px 0px
+}

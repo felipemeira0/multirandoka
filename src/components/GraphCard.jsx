@@ -10,6 +10,13 @@ const GraphCard = () => {
           <button>Semanal</button>
           <button>Diaria</button>
         </div>
+        <div style={{ padding: '10px', position: 'relative' }}>
+          <div className={styles.statistics}>2023-06-11: 3,204 Kg</div>
+          <div className={styles.statistics}>2023-06-10: 1,622 Kg</div>
+          <div className={styles.statistics}>2023-06-09: 2,279 Kg</div>
+          <div className={styles.statistics}>2023-06-08: 2,560 Kg</div>
+          <div className={styles.statistics}>2023-06-07: 2,709 Kg</div>
+        </div>
         <div className={styles.text}>
           <div className={styles.title}>
             Residuos Solidos Urbanos - TOTAL (Kg)
