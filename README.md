@@ -1,8 +1,7 @@
-# multirandoka
+# Multirandoka
 
 ### Itens Nescessários: 
-- Python3:
-  - Django
+- Python3 com Django 
 - Node, Npm e Vite
 
 ### Uso: 
@@ -13,6 +12,8 @@ Estando dentro da pasta "frontend" rode:
 - npm run dev
 
 Após, rode o manager na raiz do projeto:  
-- <code> python3 manager.py runserver <code/>
+- python3 manager.py runserver
 
+Inicie a plataforma através da porta disponibilizada pelo servidor: 
+ - http://127.0.0.1:8000/
 
